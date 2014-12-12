@@ -1,0 +1,32 @@
+﻿
+
+#header{text-align:center;}
+
+#left_column{border:1px solid black; float:left;
+             margin:auto;
+             position:absolute;
+    top: 156px;
+    width:30%;
+    left: 10px;
+    height: 571px;
+}
+
+#right_column{border:1px solid black; position:absolute;
+    top:156px;
+    float:right;
+    margin:auto;
+    width: 65%;
+    left: 395px;
+    height:571px;
+    
+
+}
+
+#leftcolumn_text{padding-left:50px; padding-top:50px;}
+#rightcolumn_text {
+    padding-left: 50px;
+    padding-top: 50px;
+}
+}
+
+#body {text-align:left;}
